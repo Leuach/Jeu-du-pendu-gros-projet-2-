@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Oct 29 09:54:27 2016
 
-@author: Sylvain Delrot
-"""
 from random import randint
 from tkinter import *
 
